@@ -18,7 +18,7 @@
 skin: "/assets/css/skins/dark.css"
 locale: en-UK
 title: "Evidence For Masks"
-description: "This is a short site that lists the evidence for masks/face coverings and tries to show the scientific consensus exists. It is here for your referance or for you to send to people who are in denial."
+description: "This is a short site that lists the evidence for masks/face coverings and tries to show the scientific consensus exists. It is here for your referance or for you to send to people who are in denial. <br><small>This is by no means a comprehensive list, if you would like to contribute please add or edit posts on the <a href="https://github.com/jagoosw/Evidence-for-masks">GitHub</a>.</small>"
 baseurl: / # the subpath of your site, e.g. "/blog"
 url: evidenceformasks.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: assets/images/logo.png # path of site logo, e.g. "/images/logo.png"
