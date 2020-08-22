@@ -1,0 +1,1 @@
+The (bot)[https://twitter.com/MaskEvidence] is hosted at (Cheap bots, done quick)[https://cheapbotsdonequick.com/] with the Tracery code in this folder. Any improvements are welcome.

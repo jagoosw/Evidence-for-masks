@@ -1,0 +1,26 @@
+{
+	"origin": [
+		"#Hello##,# #Despite contention there are good reasons for wearing masks#. #Here is a page with a list of *some* of the evidence#-https://evidenceformasks.com/ #I hope this helps#! (I'm a dumb bot, please DM me if I'm broken.)"
+	],
+	",": [
+		"!",
+		"."
+	],
+	"Hello": [
+		"Hi",
+		"Hey",
+		"Hello"
+	],
+	"Despite contention there are good reasons for wearing masks": [
+		"Whatever people say there is science that shows that masks work",
+		"Despite contention there is lots of evidence that masks work"
+	],
+	"Here is a page with a list of *some* of the evidence": [
+		"A list of *some* of the evidence can be found here",
+		"Here is a page with a list of *some* of the evidence"
+	],
+	"I hope this helps": [
+		"Bye",
+		"I hope this helps"
+	]
+}
