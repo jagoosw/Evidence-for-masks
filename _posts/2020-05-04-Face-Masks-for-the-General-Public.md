@@ -9,6 +9,8 @@ tag:
 
 > Asymptomatic (including presymptomatic) infected individuals are infectious. Without mitigation, the current estimate is that 40%-80% of infections occur from individuals without symptoms.
 
+(This is an especially important point when people argue that they "stay at home when [they're] sick")
+
 > Respiratory droplets from infected individuals are a major mode of transmission
 
 > Face masks reduce droplet dispersal. 
