@@ -9,4 +9,14 @@
 #    - title: Twitter
 #      url: https://twitter.com/billyrick
 #      icon: fab fa-twitter-square
-
+The Royal Society:
+  name: The Royal Society
+  links:
+    - title: Website
+      url: https://royalsociety.org/
+      icon: fa fa-globe
+SURGE:
+  name: COVID-19 Systematic Urgent Review Group Effort (SURGE) study authors
+  links:
+    - title: Authors
+      url: https://pubmed.ncbi.nlm.nih.gov/32497510/
