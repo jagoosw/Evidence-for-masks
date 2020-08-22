@@ -15,10 +15,7 @@
   {%- endif -%}
 
   <div class="copyright">
-    {% if site.copyright %}
-      {{ site.copyright | markdownify }}
-    {% else %}
-      <p>&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/mmistakes/so-simple-theme" rel="nofollow">So Simple</a>. Logo derived from <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/99962/s300_Face-Covering.jpg" rel="nofollow">GOV.UK.</a></p>
+    <p>Open Source as per <a href="https://github.com/jagoosw/Evidence-for-masks/blob/master/LICENSE" rel="nofollow">The MIT Licence</a>. {{ site.data.text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/mmistakes/so-simple-theme" rel="nofollow">So Simple</a>. Logo derived from <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/99962/s300_Face-Covering.jpg" rel="nofollow">GOV.UK.</a></p>
     {% endif %}
   </div>
 </footer>
