@@ -7,4 +7,4 @@ tag:
   -review
 ---
 
-* This website seems redundant now. *
+This website seems redundant now.
